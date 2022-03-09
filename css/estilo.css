@@ -1,6 +1,13 @@
 body
 {
-    color:crimson;
-    text-align: center;
+    color:rgb(97, 20, 220);
+    text-align: inherit;
     font-family: "Arial";
+    height: 665px;
+    background-image: url("file:///C:/Users/sbustamante/proyecto/css/conhintec.jpg");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
